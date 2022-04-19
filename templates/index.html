@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/slideNav.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/typewriter.css') }}" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
+    <title>Recommendation System</title>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+
+
+<body>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="/">Home</a>
+        <a href="/itemBased">Item Based</a>
+        <a href="/neuralNetwork">Neural Network</a>
+        <a href="/SVD">SVD</a>
+        <a href="/wr">Weighted Rating</a>
+        <a href="/keyWord">Keyword & description</a>
+        <a href=/genre">Genre</a>
+    </div>
+    <span class="burgur" onclick="openNav()">&#9776;</span>
+
+
+    <div class="upStretch">
+        
+        <div style="flex-basis: 100%;">
+
+        </div>
+
+        <div class="headTitle">
+            Welcome to TY movie recommendation system
+        </div>
+
+        <div 
+
+            <h6 class="headText">
+                There are 6 methods of recommendation was included in this website, feel free to take a tour and try them out :)
+            </h6>
+            
+            <div class="headerBttnContainer">
+                <h1 class="headerBttn" onclick ='location.href="#headBook"'>
+                    collaborative filtering
+                </h1>
+                <h1 class="headerBttn" onclick ='location.href="#headBook"''>
+                    content-based
+                </h1>
+            </div>
+
+        </div>
+
+        <div style="flex-basis: 100%;">
+            
+        </div>
+
+   
+   
+   
+    </div>
+
+
+    <div class="recommendOpt">
+        <div class="left_Opt">
+            <div style="font-size: 1.5vw;" id = "headBook">Recommender Types</div>
+            <div style="font-size: 3vw; font-weight: bolder">6 Reccommendations</div>
+        </div>
+        
+        <div class="rightOpt">
+            There are various types of recommender available and 
+            we can categorize them into 2 categories, content-based and
+            collaborative filtering.
+        </div>
+    </div>
+
+
+    <div style="display: flex;
+               width: 100%;
+               justify-content: center;
+               flex-wrap: wrap;
+               margin-top: 5%;
+               ">
+        
+        
+            <div class="opts" id="itemBased">
+                <div class="opts02">
+                    <img 
+                    class="optImg" 
+                    src="{{ url_for('static', filename='img/collaborative.png') }}">
+                    <h3 class="optText">
+                        Item based
+                    </h3>
+                </div>
+            </div>
+
+            <div class="opts">
+                <div class="opts02">
+                    <img 
+                    class="optImg" 
+                    src="{{ url_for('static', filename='img/neural.png') }}" 
+                    alt="Recommendation based on neural network collaborative filtering">
+
+                    <h3 class="optText">
+                        Neural Network
+                    </h3>
+                </div>
+            </div>
+
+            <div class="opts">
+                <div class="opts02">
+                    <img 
+                    class="optImg" 
+                    src="{{ url_for('static', filename='img/svd_neural.png') }}" 
+                    alt="">
+
+                    <h3 class="optText">
+                    SVD Collaborative Filtering
+                    </h3>
+                </div>
+            </div>
+
+            <div class="opts">
+                <div class="opts02">
+                    <img 
+                        class="optImg"
+                        src="{{ url_for('static', filename='img/digital-key.png') }}"
+                        alt="">
+
+                    <h3 class="optText">
+                        Keyword and description
+                    </h3>
+                </div>
+            </div>
+
+            <div class="opts">
+                <div class="opts02">
+                    <img 
+                    class="optImg" 
+                    src="{{ url_for('static', filename='img/genre.png') }}" 
+                    alt="">
+
+                    <h3 class="optText">
+                        Genre based
+                    </h3>
+                </div>
+            </div>
+
+            <div class="opts">
+                <div class="opts02">
+                    <img 
+                    class="optImg" 
+                    src="{{ url_for('static', filename='img/weighted_rating.png') }}" 
+                    alt="">
+
+                    <h3 class="optText">
+                        Weighted Rating
+                    </h3>
+                </div>
+            </div>
+    </div>
+
+
+    <script>
+        $(document).ready(function () {
+            var movie_title = [];
+
+            function loadMovies() {
+                // getJSON 1 path 2 f(data, stat, xhr)
+                $.getJSON('/get_cb_movies', function (data, status, xhr) {
+                    for (var i = 0; i < data.length; i++) {
+                        movie_title.push(data[i].movie_title);
+                    }
+                });
+            };
+
+            loadMovies();
+        
+
+            $('#movie_name').autocomplete({
+                source: movie_title
+            });
+
+        }); 
+    </script>
+
+    <script>
+
+            setTimeout(() => { document.getElementById("typing").innerHTML.reload; }, 4000);
+
+    </script>
+
+    <style>
+        .btn {
+            padding: .375rem .75rem;
+            margin-top: 10px;
+        }
+
+        .ui-autocomplete {
+            margin-top: 9vh;
+            max-height: 600px;
+            overflow-y: auto;   /* prevent horizontal scrollbar */
+            overflow-x: hidden; /* add padding to account for vertical scrollbar */
+            z-index:1000 !important;
+    }
+    </style>
+
+    <script>
+        items = document.getElementsByClassName('opts02')
+        location_of_recc = ['/itemBased', '/neuralNetwork', 
+                    '/SVD', '/keyWord', '/genre', '/wr']
+        
+        for(let i = 0 ; i < items.length ; i++){
+            items[i].onclick = function(){
+                location.href = location_of_recc[i];
+            }
+        }
+    </script>
+
+    <script>
+        function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        }
+        
+        function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        }
+    </script>
+
+
+</body>
+
+
+
+</html>

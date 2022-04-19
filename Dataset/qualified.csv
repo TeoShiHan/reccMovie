@@ -1,0 +1,911 @@
+,title,year,vote_count,vote_average,popularity,genres,weightedRating
+7564,Inception,2010,14075,8,29.108149,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}, {'id': 12, 'name': 'Adventure'}]",7.846146107849704
+6909,The Dark Knight,2008,12269,8,123.167259,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",7.825396960693811
+8517,Interstellar,2014,11187,8,32.213481,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]",7.810049300488659
+2372,Fight Club,1999,9678,8,63.869599,"[{'id': 18, 'name': 'Drama'}]",7.783509949579192
+3869,The Lord of the Rings: The Fellowship of the Ring,2001,8892,8,32.070725,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",7.766518299592097
+266,Pulp Fiction,1994,8670,8,140.950236,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",7.761225119422726
+284,The Shawshank Redemption,1994,8358,8,51.645403,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",7.7533670371962256
+5026,The Lord of the Rings: The Return of the King,2003,8226,8,29.324358,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",7.7498845641430725
+321,Forrest Gump,1994,8147,8,48.307194,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",7.7477529138277665
+4394,The Lord of the Rings: The Two Towers,2002,7641,8,29.423537,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",7.733188130113325
+232,Star Wars,1977,6778,8,42.149697,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",7.70404294205801
+1023,Back to the Future,1985,6239,8,25.778509,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",7.682373034943775
+693,The Godfather,1972,6024,8,41.109264,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",7.672817202988232
+952,The Empire Strikes Back,1980,5998,8,19.470959,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",7.671622501465522
+45,Se7en,1995,5915,8,18.45743,"[{'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",7.667749575046907
+8698,The Imitation Game,2014,5895,8,31.59594,"[{'id': 36, 'name': 'History'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 10752, 'name': 'War'}]",7.6668026419236615
+328,The Lion King,1994,5520,8,21.605761,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}]",7.647991819136924
+7975,The Intouchables,2011,5410,8,16.086919,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",7.64206430399778
+8515,The Grand Budapest Hotel,2014,4644,8,14.442048,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",7.594516658475843
+525,The Silence of the Lambs,1991,4549,8,4.307222,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",7.587724522945852
+6551,The Prestige,2006,4510,8,16.94556,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",7.58486983513868
+472,Schindler's List,1993,4436,8,41.725123,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",7.579343131015238
+8601,Whiplash,2014,4376,8,64.29999,"[{'id': 18, 'name': 'Drama'}]",7.574752811624309
+263,Leon: The Professional,1994,4293,8,20.477329,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",7.568235192125254
+3363,Memento,2000,4168,8,15.450789,"[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",7.558033581474955
+2529,The Green Mile,1999,4166,8,19.96678,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",7.557866435866255
+4229,Spirited Away,2001,3968,8,41.048867,"[{'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",7.540668878562609
+1011,The Shining,1980,3890,8,19.611589,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",7.5335210397085435
+880,Reservoir Dogs,1992,3821,8,12.22034,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",7.527009924229296
+1838,Life Is Beautiful,1997,3643,8,39.39497,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",7.509342523069439
+961,A Clockwork Orange,1971,3432,8,17.112594,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}]",7.486610938748266
+976,The Godfather: Part II,1974,3418,8,36.629307,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",7.485027940145164
+48,The Usual Suspects,1995,3334,8,16.302466,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",7.47532107966859
+968,GoodFellas,1990,3211,8,15.424092,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",7.4604284994311865
+1842,American History X,1998,3120,8,18.157166,"[{'id': 18, 'name': 'Drama'}]",7.448854624607558
+3384,Scarface,1983,3017,8,11.299673,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",7.435140566129174
+950,One Flew Over the Cuckoo's Nest,1975,3001,8,35.529554,"[{'id': 18, 'name': 'Drama'}]",7.432948746043339
+8947,Room,2015,2838,8,12.443291,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",7.409610357397006
+999,Dead Poets Society,1989,2786,8,19.905716,"[{'id': 18, 'name': 'Drama'}]",7.401755413835611
+101,Taxi Driver,1976,2632,8,14.092713,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",7.377216295396096
+974,Psycho,1960,2405,8,36.826309,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",7.33713807887824
+957,"The Good, the Bad and the Ugly",1966,2371,8,16.788787,"[{'id': 37, 'name': 'Western'}]",7.330686683298535
+959,12 Angry Men,1957,2130,8,16.503959,"[{'id': 18, 'name': 'Drama'}]",7.281091150976234
+963,Apocalypse Now,1979,2112,8,13.5963,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",7.277090297871353
+6037,Howl's Moving Castle,2004,2049,8,16.136048,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}]",7.262729664953996
+2407,Princess Mononoke,1997,2041,8,17.166725,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}]",7.260865163885409
+5936,Oldboy,2003,2000,8,10.616859,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 28, 'name': 'Action'}]",7.25115963983958
+4421,The Pianist,2002,1927,8,14.811594,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",7.233233048939169
+4432,City of God,2002,1852,8,14.95927,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",7.213898890342625
+4410,My Neighbor Totoro,1988,1730,8,13.507299,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",7.1802765598917055
+724,Rear Window,1954,1531,8,17.911314,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",7.118798846549748
+625,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1472,8,9.80398,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10752, 'name': 'War'}]",7.098759196513684
+743,Citizen Kane,1941,1244,8,15.811921,"[{'id': 9648, 'name': 'Mystery'}, {'id': 18, 'name': 'Drama'}]",7.011925650538837
+723,Vertigo,1958,1162,8,18.20822,"[{'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",6.9764580894042645
+964,Once Upon a Time in the West,1968,1160,8,15.589351,"[{'id': 37, 'name': 'Western'}]",6.975561189727963
+7404,Avatar,2009,12114,7,185.070892,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",6.908148806279283
+7879,The Avengers,2012,12000,7,89.887648,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",6.907350854983472
+8769,Deadpool,2016,11444,7,187.860492,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",6.9032515962753935
+8214,Django Unchained,2012,10297,7,19.785025,"[{'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]",6.893533886144202
+8616,Guardians of the Galaxy,2014,10014,7,53.291601,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",6.890828352019962
+8762,Mad Max: Fury Road,2015,9629,7,29.36178,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",6.886918992822805
+7941,The Dark Knight Rises,2012,9263,7,20.58258,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.882933816649826
+2061,The Matrix,1999,9079,7,33.366332,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",6.880822324331475
+6937,Iron Man,2008,8951,7,22.073099,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",6.879307965476911
+8199,The Hobbit: An Unexpected Journey,2012,8427,7,23.253089,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",6.8726852848802125
+8763,Star Wars: The Force Awakens,2015,7993,7,31.626013,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 14, 'name': 'Fantasy'}]",6.866623610531091
+1358,Titanic,1997,7770,7,26.88907,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",6.863278851540091
+6152,Batman Begins,2005,7511,7,28.505341,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",6.859177248758902
+8770,Captain America: Civil War,2016,7462,7,145.882135,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",6.8583734284789974
+8881,The Martian,2015,7442,7,25.62993,"[{'id': 18, 'name': 'Drama'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",6.858042695277557
+4693,Pirates of the Caribbean: The Curse of the Black Pearl,2003,7191,7,47.326665,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",6.853756689132617
+3810,Harry Potter and the Philosopher's Stone,2001,7188,7,38.187238,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",6.853703896254705
+7229,Up,2009,7048,7,19.330884,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",6.851197109007527
+8766,Avengers: Age of Ultron,2015,6908,7,37.37942,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",6.848602916347268
+8448,The Wolf of Wall Street,2013,6768,7,16.382422,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",6.845916665750165
+8890,Inside Out,2015,6737,7,23.985587,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.845308911549877
+8440,The Hunger Games: Catching Fire,2013,6656,7,25.309139,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",6.843698043226769
+7202,Inglourious Basterds,2009,6598,7,16.89564,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 10752, 'name': 'War'}]",6.8425238147550775
+7563,Despicable Me,2010,6595,7,22.274502,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.842462598729508
+7450,Shutter Island,2010,6559,7,15.813629,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",6.8417242767509965
+8937,The Revenant,2015,6558,7,23.501228,"[{'id': 37, 'name': 'Western'}, {'id': 18, 'name': 'Drama'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",6.8417036690061845
+6973,WALL·E,2008,6439,7,16.088366,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.839212428840572
+7235,The Hangover,2009,6324,7,23.947351,"[{'id': 35, 'name': 'Comedy'}]",6.836729273129983
+4610,Finding Nemo,2003,6292,7,25.497794,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.836024608793038
+8681,Big Hero 6,2014,6289,7,213.849907,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",6.835958234535323
+8562,X-Men: Days of Future Past,2014,6155,7,26.058586,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",6.832937705696416
+3803,"Monsters, Inc.",2001,6150,7,26.419962,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",6.8328228452003605
+7831,Harry Potter and the Deathly Hallows: Part 2,2011,6141,7,24.990737,"[{'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}]",6.832615697804761
+8744,Kingsman: The Secret Service,2015,6069,7,28.224212,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",6.8309398530793874
+5398,Harry Potter and the Prisoner of Azkaban,2004,6037,7,28.460276,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",6.830184213682028
+8767,Ant-Man,2015,6029,7,26.882388,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",6.829994247201261
+8602,Gone Girl,2014,6023,7,154.801009,"[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",6.829851493189339
+4324,Harry Potter and the Chamber of Secrets,2002,5966,7,29.741452,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",6.828483276823417
+8168,Life of Pi,2012,5912,7,14.045042,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}]",6.82716661825246
+7406,Sherlock Holmes,2009,5883,7,15.68604,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}]",6.826451146177964
+8530,Captain America: The Winter Soldier,2014,5881,7,18.717704,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",6.826401584863795
+8392,Gravity,2013,5879,7,18.50194,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",6.826351995234539
+6288,Harry Potter and the Goblet of Fire,2005,5758,7,24.903058,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",6.823298188976674
+7658,Harry Potter and the Deathly Hallows: Part 1,2010,5708,7,23.300362,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",6.82200469363948
+8319,Now You See Me,2013,5635,7,17.852022,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.820081815407568
+6729,Harry Potter and the Order of the Phoenix,2007,5633,7,21.3643,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}, {'id': 9648, 'name': 'Mystery'}]",6.820028548929019
+2858,Gladiator,2000,5566,7,23.186667,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 12, 'name': 'Adventure'}]",6.818225713090591
+8649,The Maze Runner,2014,5540,7,76.93789,"[{'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",6.817516339372464
+8671,John Wick,2014,5499,7,183.870374,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",6.81638639252048
+8445,Frozen,2013,5440,7,24.248243,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}]",6.814735593599156
+7267,Harry Potter and the Half-Blood Prince,2009,5435,7,19.083723,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",6.814594329983698
+0,Toy Story,1995,5415,7,21.946943,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",6.814027114668692
+6438,Pirates of the Caribbean: Dead Man's Chest,2006,5380,7,29.455314,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",6.813026091817652
+5626,The Incredibles,2004,5290,7,22.220214,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.8104018556913335
+7805,X-Men: First Class,2011,5252,7,0.738633,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",6.809271595669413
+1589,Saving Private Ryan,1998,5148,7,21.758054,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",6.806108200343695
+6649,300,2006,5092,7,18.108408,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 10752, 'name': 'War'}]",6.804360977638244
+4855,Kill Bill: Vol. 1,2003,5091,7,25.261865,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",6.804329491008965
+8576,Edge of Tomorrow,2014,4979,7,31.982986,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",6.800737676506229
+9047,Zootopia,2016,4961,7,26.024868,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}]",6.800148084859635
+427,Jurassic Park,1993,4956,7,8.863776,"[{'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",6.799983689693851
+8731,The Hobbit: The Battle of the Five Armies,2014,4884,7,31.718977,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",6.79758605145097
+8685,Ex Machina,2015,4862,7,14.14078,"[{'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]",6.796841932263067
+8165,Silver Linings Playbook,2012,4840,7,14.488111,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",6.796092321789061
+965,Return of the Jedi,1983,4763,7,14.586087,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",6.793424552185935
+7499,Kick-Ass,2010,4747,7,17.26045,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",6.792861426966147
+8336,Despicable Me 2,2013,4729,7,24.82355,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",6.7922242300022395
+7545,Toy Story 3,2010,4710,7,16.96647,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}]",6.791547366338918
+1335,The Truman Show,1998,4702,7,13.155901,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.791261049968255
+8588,Birdman,2014,4657,7,18.193263,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",6.78963575101829
+8164,Wreck-It Ralph,2012,4656,7,13.697597,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}]",6.7895993457419195
+8441,The Hobbit: The Desolation of Smaug,2013,4633,7,20.644776,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",6.788758532757949
+8572,Maleficent,2014,4607,7,19.467404,"[{'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",6.787799919613764
+8659,American Sniper,2014,4600,7,19.228561,"[{'id': 10752, 'name': 'War'}, {'id': 28, 'name': 'Action'}]",6.787540343113921
+7211,Star Trek,2009,4574,7,15.362632,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",6.786570616430571
+969,Alien,1979,4564,7,23.37742,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",6.786195283384057
+7649,Black Swan,2010,4562,7,12.989056,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.786120058306084
+6377,V for Vendetta,2006,4562,7,20.214422,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 14, 'name': 'Fantasy'}]",6.786120058306084
+8605,Dawn of the Planet of the Apes,2014,4511,7,75.385211,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.784183771689406
+6623,Ratatouille,2007,4510,7,20.50803,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",6.784145454767968
+8305,Star Trek Into Darkness,2013,4479,7,15.78129,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",6.7829508443309
+6533,The Departed,2006,4455,7,18.515448,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.782016864387547
+7845,Rise of the Planet of the Apes,2011,4452,7,41.613762,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]",6.781899551419903
+6940,Taken,2008,4444,7,16.367481,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",6.7815860986337855
+8803,The Hateful Eight,2015,4405,7,20.328822,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 37, 'name': 'Western'}]",6.780045022874246
+7494,How to Train Your Dragon,2010,4319,7,14.416681,"[{'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.776568688101427
+522,Terminator 2: Judgment Day,1991,4274,7,22.661695,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",6.774705518389131
+8837,Furious 7,2015,4253,7,27.275687,"[{'id': 28, 'name': 'Action'}]",6.7738253635887755
+8455,Her,2013,4215,7,13.829515,"[{'id': 10749, 'name': 'Romance'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}]",6.772215097132519
+993,The Terminator,1984,4208,7,19.293562,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",6.771915964924791
+6133,Star Wars: Episode III - Revenge of the Sith,2005,4200,7,13.165421,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",6.771573136073031
+3416,Shrek,2001,4183,7,17.987728,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",6.770841191886587
+5152,Kill Bill: Vol. 2,2004,4061,7,21.533072,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",6.765447555549466
+8675,Fury,2014,4028,7,36.713807,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}]",6.763944714863914
+840,Die Hard,1988,4005,7,16.640522,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",6.762885840666829
+7943,Sherlock Holmes: A Game of Shadows,2011,3971,7,18.695329,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}]",6.761303031263028
+1223,The Fifth Element,1997,3962,7,24.30526,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",6.760880508896841
+3999,Ice Age,2002,3954,7,17.328902,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",6.7605036757219885
+954,Raiders of the Lost Ark,1981,3949,7,19.901576,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",6.760267551255097
+6566,Casino Royale,2006,3930,7,23.065078,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",6.759366016038932
+1572,Back to the Future Part II,1989,3926,7,13.689855,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 878, 'name': 'Science Fiction'}]",6.759175354455888
+4416,Catch Me If You Can,2002,3917,7,19.833077,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",6.758745259244177
+2504,Toy Story 2,1999,3914,7,17.547693,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",6.758601552584208
+7717,Limitless,2011,3888,7,12.114955,"[{'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}]",6.757348886203717
+8304,The Great Gatsby,2013,3885,7,17.598936,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.757203510691198
+8580,The Fault in Our Stars,2014,3868,7,16.274653,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",6.756376414603059
+3845,Ocean's Eleven,2001,3857,7,12.114932,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.755838225375568
+485,Blade Runner,1982,3833,7,96.272374,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.7546557007376
+7832,Drive,2011,3832,7,15.388875,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.754606180250909
+8418,12 Years a Slave,2013,3787,7,30.316249,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",6.75235687852591
+5127,Eternal Sunshine of the Spotless Mind,2004,3758,7,12.906327,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.750885349445763
+1812,Edward Scissorhands,1990,3731,7,17.612244,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.749499497143261
+7342,Zombieland,2009,3655,7,11.063029,"[{'id': 35, 'name': 'Comedy'}, {'id': 27, 'name': 'Horror'}]",6.745514476375246
+4123,The Bourne Identity,2002,3640,7,21.040126,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",6.7447129303366165
+8327,Monsters University,2013,3622,7,16.267502,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.743744384840043
+3799,Donnie Darko,2001,3574,7,18.303148,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",6.7411253001096805
+521,Aladdin,1992,3495,7,16.357419,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",6.736696162220103
+7606,The Social Network,2010,3492,7,16.972995,"[{'id': 18, 'name': 'Drama'}]",6.7365249782062895
+8680,Nightcrawler,2014,3475,7,21.277073,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.7355507154989995
+8143,Argo,2012,3473,7,14.238234,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.735435622456174
+7278,District 9,2009,3451,7,11.589835,"[{'id': 878, 'name': 'Science Fiction'}]",6.734162955226988
+2286,American Beauty,1999,3438,7,20.726578,"[{'id': 18, 'name': 'Drama'}]",6.733405152932879
+7660,Tangled,2010,3419,7,14.684761,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.732289791569803
+100,Braveheart,1995,3404,7,20.755149,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",6.7314026288960545
+3854,Amélie,2001,3403,7,12.879381,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",6.731343275607704
+8711,The Theory of Everything,2014,3403,7,11.85302,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.731343275607704
+7114,The Curious Case of Benjamin Button,2008,3398,7,17.934821,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",6.7310461152630525
+8585,22 Jump Street,2014,3375,7,10.901496,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}, {'id': 28, 'name': 'Action'}]",6.72967066737117
+888,E.T. the Extra-Terrestrial,1982,3359,7,19.358546,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",6.728705507081516
+3221,Cast Away,2000,3304,7,21.296343,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]",6.725334551652607
+956,Aliens,1986,3282,7,21.761179,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",6.723962596366158
+8577,Mission: Impossible - Rogue Nation,2015,3274,7,17.836882,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",6.723460299207329
+2211,The Sixth Sense,1999,3223,7,18.449169,"[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",6.720214677460096
+1044,Indiana Jones and the Last Crusade,1989,3221,7,14.788987,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",6.7200858450603445
+8454,The Secret Life of Walter Mitty,2013,3213,7,8.684892,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",6.719569326806085
+6437,The Devil Wears Prada,2006,3198,7,13.102384,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.718595699341519
+8394,Prisoners,2013,3183,7,11.96262,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.717615287646932
+7105,Gran Torino,2008,3181,7,14.794228,"[{'id': 18, 'name': 'Drama'}]",6.717484049689803
+8351,The Conjuring,2013,3169,7,14.90169,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",6.71669405309109
+5447,The Notebook,2004,3163,7,15.239013,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",6.716297395677207
+8587,How to Train Your Dragon 2,2014,3163,7,12.256689,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",6.716297395677207
+6780,Into the Wild,2007,3139,7,15.423538,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]",6.714699596244216
+8499,The Lego Movie,2014,3127,7,16.418133,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",6.713893928421684
+6530,Pan's Labyrinth,2006,3122,7,26.817754,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",6.71355688894428
+3871,A Beautiful Mind,2001,3087,7,11.93646,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.711175193480092
+6813,No Country for Old Men,2007,3083,7,15.565484,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.710900475444691
+744,2001: A Space Odyssey,1968,3075,7,22.494622,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}, {'id': 12, 'name': 'Adventure'}]",6.710349468584148
+8129,The Perks of Being a Wallflower,2012,3056,7,12.775679,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.709032371107387
+527,Beauty and the Beast,1991,3029,7,23.433511,"[{'id': 10749, 'name': 'Romance'}, {'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10402, 'name': 'Music'}]",6.707139967103893
+1366,The Big Lebowski,1998,3001,7,15.952524,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",6.705151297335961
+8586,The Equalizer,2014,2997,7,17.618057,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",6.704864994765039
+7262,(500) Days of Summer,2009,2993,7,16.376657,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.704578135645406
+1573,Back to the Future Part III,1990,2978,7,13.043999,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 878, 'name': 'Science Fiction'}]",6.703497429381304
+8426,Dallas Buyers Club,2013,2973,7,14.785719,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",6.703135434740222
+3211,Snatch,2000,2953,7,14.014025,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.701678573743707
+6740,The Bourne Ultimatum,2007,2938,7,18.173269,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",6.700576509564354
+7067,Slumdog Millionaire,2008,2918,7,11.258181,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.6990943618045495
+6997,Watchmen,2009,2892,7,16.551503,"[{'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}]",6.697145491090849
+1351,Good Will Hunting,1997,2880,7,15.064833,"[{'id': 18, 'name': 'Drama'}]",6.69623747237535
+5497,The Bourne Supremacy,2004,2873,7,20.40426,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.695705275926091
+1674,Indiana Jones and the Temple of Doom,1984,2841,7,15.802306,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",6.693248438067089
+7659,The King's Speech,2010,2817,7,11.260387,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",6.691379616041809
+6096,Sin City,2005,2755,7,15.010525,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.68644474633391
+7757,Source Code,2011,2752,7,9.796962,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}]",6.686201956286162
+8988,Spotlight,2015,2751,7,14.63239,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 36, 'name': 'History'}]",6.686120942695075
+640,Trainspotting,1996,2737,7,19.348466,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",6.684982344259498
+9025,The Big Short,2015,2679,7,13.143061,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.680175950816831
+9042,Me Before You,2016,2674,7,34.34759,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.6797547306488
+7647,127 Hours,2010,2668,7,11.176797,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.679247799555482
+4137,Minority Report,2002,2663,7,20.666063,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}]",6.678824129401147
+8995,Bridge of Spies,2015,2633,7,13.707888,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",6.676258417062124
+1124,Jaws,1975,2628,7,19.726114,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}]",6.675826807656543
+6477,The Pursuit of Happyness,2006,2607,7,20.981716,"[{'id': 18, 'name': 'Drama'}]",6.674001410263073
+977,Full Metal Jacket,1987,2595,7,13.94148,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",6.672949066399931
+3155,Requiem for a Dream,2000,2525,7,6.874828,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",6.666672385654192
+7834,"Crazy, Stupid, Love.",2011,2522,7,10.246173,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.666397996771788
+5978,Million Dollar Baby,2004,2519,7,14.471373,"[{'id': 18, 'name': 'Drama'}]",6.666123155773907
+8411,Captain Phillips,2013,2495,7,13.776068,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.663908016651491
+7786,Fast Five,2011,2491,7,1.420361,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.663535965969752
+519,Home Alone,1990,2487,7,0.702543,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",6.663163090661912
+5584,Shaun of the Dead,2004,2479,7,14.902948,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}]",6.6624148551771825
+7951,The Girl with the Dragon Tattoo,2011,2479,7,8.907829,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 18, 'name': 'Drama'}]",6.6624148551771825
+31,Twelve Monkeys,1995,2470,7,12.297305,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",6.661569106846426
+8941,Sicario,2015,2465,7,19.511221,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",6.661097413010843
+2172,Ghostbusters,1984,2431,7,22.089729,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",6.6578546911226155
+9065,The Nice Guys,2016,2382,7,16.075615,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",6.653070670995064
+1018,Groundhog Day,1993,2358,7,12.989627,"[{'id': 10749, 'name': 'Romance'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",6.650678329914694
+6578,Blood Diamond,2006,2344,7,12.477872,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}]",6.649267499260068
+6841,Juno,2007,2313,7,11.791591,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.646102596330881
+8114,Pitch Perfect,2012,2310,7,11.03595,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",6.6457932815042255
+8397,Rush,2013,2310,7,10.63552,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}]",6.6457932815042255
+8927,The Man from U.N.C.L.E.,2015,2306,7,14.656875,"[{'id': 35, 'name': 'Comedy'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",6.645380019669555
+9086,Nerve,2016,2262,7,14.9837,"[{'id': 9648, 'name': 'Mystery'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}]",6.640769666539152
+5624,Saw,2004,2255,7,23.508433,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 80, 'name': 'Crime'}]",6.640025125669184
+6638,Hot Fuzz,2007,2252,7,13.535195,"[{'id': 80, 'name': 'Crime'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",6.6397050911080795
+7917,Hugo,2011,2197,7,14.046164,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",6.633735271264417
+1529,The Breakfast Club,1985,2189,7,12.627678,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.632850413551701
+7588,Scott Pilgrim vs. the World,2010,2185,7,13.793301,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",6.632406379462751
+6747,Superbad,2007,2152,7,16.205105,"[{'id': 35, 'name': 'Comedy'}]",6.628701703956482
+524,Batman,1989,2145,7,19.10673,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",6.627906243323469
+8381,About Time,2013,2140,7,11.213913,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]",6.627335967212819
+494,The Nightmare Before Christmas,1993,2135,7,17.730913,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.626763940392676
+2816,Predator,1987,2129,7,18.495694,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",6.626075185899952
+2821,American Psycho,2000,2128,7,13.686715,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",6.625960146269721
+6550,Children of Men,2006,2120,7,14.114606,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",6.625037274683908
+5078,The Butterfly Effect,2004,2119,7,12.994939,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",6.624921595432561
+8940,Southpaw,2015,2112,7,12.370126,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]",6.624109837816937
+7111,Seven Pounds,2008,2092,7,21.708267,"[{'id': 18, 'name': 'Drama'}]",6.621771048853628
+1471,Mulan,1998,2089,7,21.180857,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",6.621417717953261
+535,Fargo,1996,2080,7,12.61469,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.6203537532585255
+6647,Zodiac,2007,2080,7,19.083823,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",6.6203537532585255
+8216,The Impossible,2012,2071,7,10.027434,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",6.619283791393218
+5021,Big Fish,2003,2064,7,14.739983,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}]",6.618447420108932
+8857,The Age of Adaline,2015,2052,7,10.542026,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.6170050590458365
+7795,Midnight in Paris,2011,2049,7,11.43256,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",6.616642763270197
+1558,The Exorcist,1973,2046,7,12.137595,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",6.616279781414942
+9074,The Conjuring 2,2016,2018,7,14.767317,"[{'id': 27, 'name': 'Horror'}]",6.612858508290378
+8590,Boyhood,2014,2008,7,6.430591,"[{'id': 18, 'name': 'Drama'}]",6.611621792561686
+8181,Rise of the Guardians,2012,1981,7,10.943775,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.608242849595638
+5444,The Terminal,2004,1974,7,14.092373,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.607357208188574
+8667,Predestination,2014,1971,7,10.524204,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",6.60697642058418
+7847,The Help,2011,1966,7,7.486118,"[{'id': 18, 'name': 'Drama'}]",6.60634013062916
+4397,Gangs of New York,2002,1964,7,14.922399,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 80, 'name': 'Crime'}]",6.606085037401212
+9013,Creed,2015,1963,7,33.449723,"[{'id': 18, 'name': 'Drama'}]",6.605957366770955
+6230,Corpse Bride,2005,1957,7,12.920032,"[{'id': 10749, 'name': 'Romance'}, {'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10402, 'name': 'Music'}]",6.605189601687051
+5020,The Last Samurai,2003,1946,7,19.582325,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 10752, 'name': 'War'}, {'id': 36, 'name': 'History'}]",6.603774233944435
+4767,Lost in Translation,2003,1943,7,11.609441,"[{'id': 18, 'name': 'Drama'}]",6.603386461615157
+8945,The Intern,2015,1926,7,15.651705,"[{'id': 35, 'name': 'Comedy'}]",6.601174668493342
+8217,Les Misérables,2012,1925,7,13.52408,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",6.601043794524875
+1640,The Little Mermaid,1989,1921,7,17.496832,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.600519438599955
+4884,Love Actually,2003,1917,7,10.586815,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",6.599993702518623
+5,Heat,1995,1886,7,17.924927,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.595871845311496
+7246,The Hurt Locker,2008,1881,7,9.403724,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 10752, 'name': 'War'}]",6.595199060876041
+1314,Gattaca,1997,1846,7,12.89312,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",6.59042610815089
+1515,Rocky,1976,1843,7,14.774066,"[{'id': 18, 'name': 'Drama'}]",6.590011755390538
+3882,Black Hawk Down,2001,1832,7,10.064446,"[{'id': 28, 'name': 'Action'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",6.58848526246788
+7206,Moon,2009,1831,7,13.336773,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}]",6.5883459265372455
+4671,28 Days Later,2002,1816,7,17.656951,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",6.586244507022564
+529,Pretty Woman,1990,1807,7,13.348451,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",6.5849733254028475
+1637,The Jungle Book,1967,1791,7,22.845448,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}]",6.582694054862052
+7416,Hachi: A Dog's Tale,2009,1769,7,8.621359,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",6.579518869556305
+2062,10 Things I Hate About You,1999,1768,7,12.069966,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",6.579373394490418
+1522,Rain Man,1988,1762,7,11.267467,"[{'id': 18, 'name': 'Drama'}]",6.578498425819963
+6847,Sweeney Todd: The Demon Barber of Fleet Street,2007,1745,7,10.038401,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 10402, 'name': 'Music'}]",6.575999462731081
+2336,Total Recall,1990,1745,7,12.954444,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",6.575999462731081
+911,Monty Python and the Holy Grail,1975,1742,7,10.43389,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",6.575555390111403
+1245,Hercules,1997,1741,7,14.048694,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",6.575407159123805
+6460,Little Miss Sunshine,2006,1728,7,5.320117,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.573470691634544
+2148,Tarzan,1999,1715,7,12.453452,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",6.571516479676852
+3698,The Others,2001,1708,7,11.046007,"[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",6.570456776227777
+8048,Moonrise Kingdom,2012,1701,7,8.692433,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.569391818174933
+7679,True Grit,2010,1701,7,10.730765,"[{'id': 18, 'name': 'Drama'}, {'id': 12, 'name': 'Adventure'}, {'id': 37, 'name': 'Western'}]",6.569391818174933
+8977,The Danish Girl,2015,1689,7,11.245661,"[{'id': 18, 'name': 'Drama'}]",6.567553837744577
+739,The Wizard of Oz,1939,1689,7,22.064932,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",6.567553837744577
+2037,"Lock, Stock and Two Smoking Barrels",1998,1671,7,4.60786,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",6.564767258335756
+6381,Inside Man,2006,1671,7,13.393548,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.564767258335756
+3741,Training Day,2001,1665,7,13.664622,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.563830400887961
+6499,The Illusionist,2006,1657,7,11.494009,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}]",6.562574965616717
+447,Mrs. Doubtfire,1993,1638,7,11.16553,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",6.559564142673201
+129,Apollo 13,1995,1637,7,18.761467,"[{'id': 18, 'name': 'Drama'}]",6.559404529765566
+1119,Grease,1978,1633,7,7.854899,"[{'id': 10749, 'name': 'Romance'}]",6.558764919588845
+1809,The Thing,1982,1629,7,16.83125,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}]",6.558123449674748
+7389,The Blind Side,2009,1626,7,12.753109,"[{'id': 18, 'name': 'Drama'}]",6.55764112190187
+7578,Mr. Nobody,2009,1616,7,11.817059,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 14, 'name': 'Fantasy'}]",6.556025730147203
+1584,The Godfather: Part III,1990,1589,7,17.185349,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.551604654213728
+5155,Man on Fire,2004,1583,7,9.635691,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.550610209002404
+6849,There Will Be Blood,2007,1581,7,8.200627,"[{'id': 18, 'name': 'Drama'}]",6.550277746332434
+1363,Jackie Brown,1997,1580,7,16.415498,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}]",6.55011133046
+1012,Stand by Me,1986,1568,7,15.206957,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",6.548104690542337
+1566,The Goonies,1985,1563,7,14.280703,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",6.547263297622367
+225,Interview with the Vampire,1994,1558,7,11.970205,"[{'id': 27, 'name': 'Horror'}, {'id': 10749, 'name': 'Romance'}]",6.546418765645091
+836,Alice in Wonderland,1951,1557,7,16.488937,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",6.546249481016311
+1293,The Game,1997,1556,7,14.825587,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",6.546080069980251
+8458,Lone Survivor,2013,1549,7,10.855502,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 10752, 'name': 'War'}]",6.544890641399679
+3215,The Emperor's New Groove,2000,1544,7,12.297375,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",6.544037226010765
+6251,Brokeback Mountain,2005,1531,7,11.787044,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.541803293674192
+8436,The Book Thief,2013,1528,7,16.373622,"[{'id': 18, 'name': 'Drama'}]",6.541284658706271
+6809,American Gangster,2007,1527,7,9.644542,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",6.541111519376123
+5987,The Aviator,2004,1526,7,9.86738,"[{'id': 18, 'name': 'Drama'}]",6.54093824929584
+1912,First Blood,1982,1523,7,14.778884,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}, {'id': 10752, 'name': 'War'}]",6.540417653071408
+7355,Law Abiding Citizen,2009,1522,7,16.639047,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",6.5402438585066935
+1141,Scream,1996,1520,7,13.326443,"[{'id': 80, 'name': 'Crime'}, {'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}]",6.539895874748374
+953,The Princess Bride,1987,1518,7,15.15267,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",6.539547363821807
+3782,Mulholland Drive,2001,1517,7,18.184056,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",6.539372910295938
+7607,The Town,2010,1516,7,13.081203,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.539198324528162
+7663,The Fighter,2010,1512,7,14.141837,"[{'id': 18, 'name': 'Drama'}]",6.5384986560260785
+2394,RoboCop,1987,1494,7,13.485583,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",6.535323673534284
+7089,The Boy in the Striped Pyjamas,2008,1492,7,8.912738,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}]",6.534968198988334
+1340,Anastasia,1997,1481,7,11.911173,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.533003326202313
+5544,Collateral,2004,1476,7,13.455112,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",6.532104702676687
+1727,Beetlejuice,1988,1475,7,10.627364,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}]",6.5319245628070775
+4852,Mystic River,2003,1473,7,12.602438,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",6.5315638666236815
+2210,The Iron Giant,1999,1470,7,15.441459,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",6.5310217788285385
+2396,Who Framed Roger Rabbit,1988,1466,7,16.78596,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 10751, 'name': 'Family'}]",6.530297040424626
+732,Casablanca,1942,1462,7,13.916101,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.529570058595844
+8733,Unbroken,2014,1437,7,10.543955,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",6.524974939218216
+8673,The Judge,2014,1433,7,17.887943,"[{'id': 18, 'name': 'Drama'}]",6.524231376471434
+7151,Coraline,2009,1432,7,16.639915,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.52404512192104
+1743,The Untouchables,1987,1424,7,11.062203,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 53, 'name': 'Thriller'}]",6.522549819130971
+6876,In Bruges,2008,1414,7,9.895652,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",6.520667426050743
+1308,The Devil's Advocate,1997,1414,7,10.920124,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",6.520667426050743
+7877,Moneyball,2011,1409,7,15.785663,"[{'id': 18, 'name': 'Drama'}]",6.519720652380147
+6285,Pride & Prejudice,2005,1406,7,14.439083,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.519150790790659
+8954,Straight Outta Compton,2015,1381,7,21.183077,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}]",6.514348829366103
+1646,Peter Pan,1953,1380,7,16.861533,"[{'id': 16, 'name': 'Animation'}, {'id': 10402, 'name': 'Music'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",6.51415475520904
+879,Dirty Dancing,1987,1371,7,14.044122,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",6.5124010826321905
+4136,Lilo & Stitch,2002,1371,7,18.469238,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.5124010826321905
+1561,Lethal Weapon,1987,1367,7,13.183804,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",6.511617602408252
+6395,Lucky Number Slevin,2006,1356,7,11.15092,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}]",6.509449991702349
+6213,Lord of War,2005,1356,7,8.745216,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.509449991702349
+3374,Blow,2001,1352,7,12.332223,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",6.5086569913656245
+3417,Moulin Rouge!,2001,1348,7,13.691781,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",6.507861423022629
+15,Casino,1995,1343,7,10.137389,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",6.506863332292976
+1287,L.A. Confidential,1997,1340,7,10.989442,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",6.506262532259219
+2338,Ferris Bueller's Day Off,1986,1340,7,12.724645,"[{'id': 35, 'name': 'Comedy'}]",6.506262532259219
+1256,Contact,1997,1338,7,14.374866,"[{'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}]",6.505861184943548
+7985,The Vow,2012,1328,7,9.524298,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.503844621055788
+1454,Fear and Loathing in Las Vegas,1998,1321,7,9.220346,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",6.502423205138374
+3860,The Royal Tenenbaums,2001,1317,7,9.707542,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.501607304843446
+2137,Notting Hill,1999,1309,7,9.874043,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.499967450619026
+7135,Ip Man,2008,1309,7,6.004257,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 36, 'name': 'History'}]",6.499967450619026
+9090,Hell or High Water,2016,1304,7,12.565896,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 37, 'name': 'Western'}]",6.498937050541997
+7883,Warrior,2011,1297,7,13.121626,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]",6.497487335469581
+7887,50/50,2011,1287,7,11.869481,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.495401701434009
+6186,Serenity,2005,1287,7,11.919995,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",6.495401701434009
+543,The Aristocats,1970,1287,7,9.834047,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",6.495401701434009
+8570,Begin Again,2013,1285,7,10.289628,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",6.494982495403798
+5620,The Machinist,2004,1280,7,10.737565,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",6.493931426671288
+5633,Finding Neverland,2004,1269,7,15.529604,"[{'id': 18, 'name': 'Drama'}]",6.491603604346869
+2168,Eyes Wide Shut,1999,1266,7,13.268484,"[{'id': 9648, 'name': 'Mystery'}, {'id': 18, 'name': 'Drama'}]",6.4909650223727615
+8461,Saving Mr. Banks,2013,1256,7,15.130888,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",6.488824781128112
+6526,Apocalypto,2006,1252,7,7.735233,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.487963636891468
+406,The Fugitive,1993,1240,7,10.08937,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}]",6.485362707177067
+881,Platoon,1986,1236,7,18.206972,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}, {'id': 28, 'name': 'Action'}]",6.484489848810679
+8785,Brooklyn,2015,1235,7,7.991613,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",6.484271171390134
+871,Life of Brian,1979,1230,7,10.714173,"[{'id': 35, 'name': 'Comedy'}]",6.483174995508886
+832,Mary Poppins,1964,1217,7,15.11549,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",6.480303009077158
+6735,Stardust,2007,1215,7,14.784525,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}, {'id': 10751, 'name': 'Family'}]",6.47985832952644
+1090,A Nightmare on Elm Street,1984,1212,7,13.694713,"[{'id': 27, 'name': 'Horror'}]",6.479189881526346
+6666,Sunshine,2007,1210,7,12.715571,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",6.478743294218445
+7370,Fantastic Mr. Fox,2009,1206,7,8.695893,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",6.477847818001676
+8565,Chef,2014,1203,7,8.720309,"[{'id': 35, 'name': 'Comedy'}]",6.477174189143847
+6560,Perfume: The Story of a Murderer,2006,1198,7,10.297304,"[{'id': 80, 'name': 'Crime'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}]",6.476047603617955
+8127,End of Watch,2012,1186,7,7.45279,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.473323886430039
+1186,Donnie Brasco,1997,1175,7,12.201954,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",6.470802150010927
+6126,Crash,2004,1172,7,9.785147,"[{'id': 18, 'name': 'Drama'}]",6.470110207215439
+2435,Robin Hood,1973,1155,7,11.179855,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",6.466154763956751
+7065,Changeling,2008,1151,7,11.672394,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",6.465215474371031
+7397,Invictus,2009,1150,7,9.109838,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",6.4649801352909275
+6607,Bridge to Terabithia,2007,1146,7,8.460206,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",6.464036704035929
+3226,"O Brother, Where Art Thou?",2000,1144,7,12.434175,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",6.463563739602499
+6843,The Bucket List,2007,1138,7,9.070643,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",6.462139824559858
+8379,The Butler,2013,1134,7,11.061894,"[{'id': 18, 'name': 'Drama'}]",6.461186340823924
+6298,Match Point,2005,1134,7,9.020372,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}]",6.461186340823924
+1019,Unforgiven,1992,1133,7,10.942149,"[{'id': 37, 'name': 'Western'}]",6.460947441445022
+8361,Blue Jasmine,2013,1126,7,12.61244,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",6.459269195621376
+2405,Being John Malkovich,1999,1124,7,11.416319,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",6.458787775745683
+7939,The Hunger Games,2012,9634,6,20.031667,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.991318736699556
+8296,Iron Man 3,2013,8951,6,23.721243,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.990730126812705
+8717,Jurassic World,2015,8842,6,32.790475,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.990628724201668
+8098,Skyfall,2012,7718,6,20.309585,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",5.989437226758416
+7833,Captain America: The First Avenger,2011,7174,6,19.323582,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.9887446192848826
+7516,Iron Man 2,2010,6969,6,19.083344,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.988459458120364
+8076,The Amazing Spider-Man,2012,6734,6,31.102267,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.988114258367077
+7777,Thor,2011,6678,6,29.158489,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",5.988028929213258
+8323,Man of Steel,2013,6462,6,18.538834,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",5.9876879989762015
+8561,Lucy,2014,6048,6,36.447603,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.986977136482637
+8700,The Hunger Games: Mockingjay - Part 1,2014,5767,6,147.098006,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",5.986445969088034
+8332,World War Z,2013,5683,6,26.114917,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.986278669796794
+4083,Spider-Man,2002,5398,6,29.413341,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",5.985678924519217
+8312,Fast & Furious 6,2013,5282,6,1.657637,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.98541953335755
+8042,Prometheus,2012,5152,6,16.624854,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 9648, 'name': 'Mystery'}]",5.985117439027652
+7794,Pirates of the Caribbean: On Stranger Tides,2011,5068,6,27.88772,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}]",5.984915491637875
+6833,I Am Legend,2007,4977,6,11.379355,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.984690438311162
+8330,Pacific Rim,2013,4903,6,33.949359,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",5.9845024163433305
+8425,Thor: The Dark World,2013,4873,6,34.905447,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.984424868972063
+8288,Oblivion,2013,4862,6,14.654053,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 9648, 'name': 'Mystery'}]",5.984396240130189
+8771,X-Men: Apocalypse,2016,4831,6,28.712522,"[{'id': 878, 'name': 'Science Fiction'}]",5.984314989658868
+8069,Ted,2012,4811,6,19.638605,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",5.984262119431541
+8485,Divergent,2014,4784,6,21.572585,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.984190176661774
+8117,Looper,2012,4777,6,12.727269,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.984171417336526
+7470,Alice in Wonderland,2010,4773,6,17.285093,"[{'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}]",5.984160677720782
+8058,Brave,2012,4760,6,15.876341,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}]",5.984125673098583
+8906,Minions,2015,4729,6,547.488298,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",5.984041572860359
+6701,Pirates of the Caribbean: At World's End,2007,4627,6,31.363664,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",5.983758454697029
+8909,Spectre,2015,4552,6,24.926577,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}]",5.9835437860276155
+2102,Star Wars: Episode I - The Phantom Menace,1999,4526,6,15.649091,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.983468036866211
+1252,Men in Black,1997,4521,6,15.781024,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]",5.983453389700377
+5484,Spider-Man 2,2004,4432,6,10.834506,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.983188257855953
+9062,Finding Dory,2016,4333,6,14.477677,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.9828831725327385
+8540,The Amazing Spider-Man 2,2014,4274,6,26.23687,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.982696030582445
+8038,Men in Black 3,2012,4228,6,10.684385,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]",5.982547259912361
+3031,X-Men,2000,4172,6,0.954467,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.982362658551509
+8011,21 Jump Street,2012,4151,6,11.250764,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.982292422238992
+8893,The Hunger Games: Mockingjay - Part 2,2015,4117,6,26.628178,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.982177512584476
+6727,Transformers,2007,4113,6,5.587707,"[{'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}]",5.982163895678479
+8354,The Wolverine,2013,4110,6,3.918287,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.98215366933627
+7208,X-Men Origins: Wolverine,2009,4086,6,1.456541,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.982071434497178
+4101,Star Wars: Episode II - Attack of the Clones,2002,4074,6,14.072511,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.982030032221365
+7949,Mission: Impossible - Ghost Protocol,2011,4026,6,14.25843,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}]",5.9818624930920485
+6430,Cars,2006,3991,6,18.907948,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.981738346195311
+8831,Insurgent,2015,3921,6,27.887186,"[{'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.981484883101697
+5490,"I, Robot",2004,3889,6,14.43075,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.981366655911542
+7799,The Hangover Part II,2011,3836,6,21.893532,"[{'id': 35, 'name': 'Comedy'}]",5.981167485365259
+5984,Charlie and the Chocolate Factory,2005,3759,6,22.038405,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.980870418206887
+6427,X-Men: The Last Stand,2006,3581,6,0.867943,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.98014645988755
+4587,X2,2003,3572,6,0.913096,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.980108397118929
+7901,In Time,2011,3512,6,10.324613,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.979850867304312
+8333,Elysium,2013,3510,6,15.232738,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.9798421680846
+4603,The Matrix Reloaded,2003,3500,6,16.229317,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.979798559067822
+3457,The Fast and the Furious,2001,3485,6,1.406181,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.979732790605352
+9070,Now You See Me 2,2016,3362,6,39.540653,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",5.979176893103894
+7817,Transformers: Dark of the Moon,2011,3351,6,4.503505,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",5.979125689505768
+642,Independence Day,1996,3334,6,17.634197,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.979046059472917
+6139,Madagascar,2005,3322,6,16.136217,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}]",5.978989483267731
+8563,Godzilla,2014,3232,6,14.019239,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.978555222174146
+6959,Kung Fu Panda,2008,3231,6,16.897541,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}]",5.978550296190358
+7250,Transformers: Revenge of the Fallen,2009,3192,6,4.351756,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.978356401686237
+4145,Men in Black II,2002,3188,6,16.775716,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]",5.978336316684091
+4880,The Matrix Revolutions,2003,3155,6,15.368205,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.9781691820814284
+8722,Maze Runner: The Scorch Trials,2015,3148,6,41.225769,"[{'id': 28, 'name': 'Action'}]",5.978133397207545
+8748,Chappie,2015,3124,6,30.206365,"[{'id': 80, 'name': 'Crime'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.9780098105301205
+4608,Bruce Almighty,2003,3121,6,15.947524,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}]",5.977994263900434
+6972,The Incredible Hulk,2008,3086,6,19.125537,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.977811248796479
+5391,Shrek 2,2004,3082,6,16.22986,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.977790138767744
+8369,We're the Millers,2013,3053,6,18.474368,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.977635881456892
+6975,Hancock,2008,3050,6,11.017324,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",5.977619801417674
+6146,Mr. & Mrs. Smith,2005,3048,6,15.724373,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.977609068539014
+8213,Jack Reacher,2012,3046,6,12.789812,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.9775983253610745
+6375,Ice Age: The Meltdown,2006,3034,6,16.646029,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}]",5.977533649175994
+8154,Cloud Atlas,2012,3031,6,13.494246,"[{'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]",5.97751742173523
+8863,San Andreas,2015,3017,6,20.547925,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.977441382672635
+7068,Quantum of Solace,2008,3015,6,13.67812,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.9774304779414855
+8279,Olympus Has Fallen,2013,3010,6,10.978188,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.977403169933962
+8311,The Hangover Part III,2013,2991,6,25.085639,"[{'id': 35, 'name': 'Comedy'}]",5.977298794047528
+8926,The Jungle Book,2016,2977,6,17.432758,"[{'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",5.977221266389009
+7587,The Expendables,2010,2977,6,14.75562,"[{'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",5.977221266389009
+6472,Night at the Museum,2006,2949,6,16.661966,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.977064611542739
+7937,The Expendables 2,2012,2940,6,14.881566,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",5.9770137995852455
+8465,Snowpiercer,2013,2910,6,14.131906,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}]",5.976842788273759
+8850,Tomorrowland,2015,2904,6,22.296076,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}]",5.976808280209394
+7680,TRON: Legacy,2010,2895,6,21.259,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.976756324845697
+8453,American Hustle,2013,2868,6,16.478036,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",5.97659905258498
+7641,RED,2010,2858,6,12.595165,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.976540262143278
+5163,Troy,2004,2841,6,15.387275,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",5.9764396375422875
+2093,The Mummy,1999,2796,6,23.984065,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}]",5.976169063759468
+8133,Taken 2,2012,2783,6,16.376482,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.976089737142188
+6426,The Da Vinci Code,2006,2773,6,18.566706,"[{'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",5.976028356378062
+8556,Neighbors,2014,2773,6,11.90575,"[{'id': 35, 'name': 'Comedy'}]",5.976028356378062
+7893,Real Steel,2011,2749,6,19.265552,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}]",5.97587974878212
+8077,Ice Age: Continental Drift,2012,2731,6,13.26958,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}]",5.975767078277651
+6301,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,2709,6,18.13542,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.97562793220105
+8208,Warm Bodies,2013,2698,6,10.430238,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.975557758202048
+7942,The Bourne Legacy,2012,2683,6,14.89499,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.975461412580833
+561,Mission: Impossible,1996,2677,6,15.793477,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.975422661324183
+8904,Star Trek Beyond,2016,2636,6,20.659284,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.975154549658126
+8140,Hotel Transylvania,2012,2622,6,16.231945,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.975061654586877
+8885,Spy,2015,2590,6,13.257467,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.974846692014627
+8815,Focus,2015,2588,6,10.035362,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",5.974833133741673
+6974,Wanted,2008,2583,6,12.457896,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.974799174025774
+4786,Underworld,2003,2556,6,20.624333,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.974614196236163
+331,The Mask,1994,2550,6,14.13488,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 14, 'name': 'Fantasy'}]",5.974572720682687
+1479,Armageddon,1998,2540,6,13.235112,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",5.974503292768432
+9045,10 Cloverfield Lane,2016,2537,6,14.421528,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}]",5.97448239040146
+1233,The Lost World: Jurassic Park,1997,2528,6,0.788123,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.974419477162805
+8905,Ted 2,2015,2524,6,42.061481,"[{'id': 35, 'name': 'Comedy'}]",5.974391416036393
+7811,Super 8,2011,2496,6,19.529911,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}]",5.974193251004616
+5392,The Day After Tomorrow,2004,2462,6,15.049695,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.9739484598357055
+2370,Home Alone 2: Lost in New York,1992,2459,6,13.293722,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}]",5.973926637470013
+8166,Flight,2012,2449,6,10.973822,"[{'id': 18, 'name': 'Drama'}]",5.97385363147088
+8275,The Croods,2013,2447,6,14.757874,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.973838981183141
+8664,Dracula Untold,2014,2439,6,16.316318,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10752, 'name': 'War'}]",5.973780215486916
+8520,300: Rise of an Empire,2014,2438,6,12.904677,"[{'id': 28, 'name': 'Action'}, {'id': 10752, 'name': 'War'}]",5.973772851206354
+7194,Fast & Furious,2009,2426,6,1.498902,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.9736841560802345
+8824,Cinderella,2015,2426,6,19.801128,"[{'id': 10749, 'name': 'Romance'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}, {'id': 18, 'name': 'Drama'}]",5.9736841560802345
+1,Jumanji,1995,2413,6,17.015539,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",5.973587390234514
+6302,King Kong,2005,2403,6,19.761164,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}]",5.97351246934677
+5159,Mean Girls,2004,2401,6,11.454835,"[{'id': 35, 'name': 'Comedy'}]",5.973497434136092
+6166,War of the Worlds,2005,2397,6,19.929377,"[{'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.973467312449594
+8295,This Is the End,2013,2394,6,11.414048,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",5.973444676212917
+1865,A Bug's Life,1998,2379,6,16.869209,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.973330913187612
+7530,Prince of Persia: The Sands of Time,2010,2372,6,18.459955,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 10749, 'name': 'Romance'}]",5.973277489536144
+2163,American Pie,1999,2358,6,18.344227,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.973169997539106
+6699,Shrek the Third,2007,2355,6,14.072479,"[{'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.9731468509331975
+8420,Ender's Game,2013,2354,6,12.500305,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.973139126520281
+7823,Horrible Bosses,2011,2341,6,9.856955,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.973038303238177
+8743,The Interview,2014,2340,6,14.526049,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",5.9730305162416535
+6737,The Simpsons Movie,2007,2335,6,14.302911,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.972991513690953
+7256,Ice Age: Dawn of the Dinosaurs,2009,2330,6,12.980624,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",5.972952398167971
+8765,Warcraft,2016,2325,6,12.572718,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.972913169181151
+8021,The Cabin in the Woods,2012,2314,6,14.811958,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",5.972826463576737
+7842,Friends with Benefits,2011,2306,6,10.009007,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",5.972763055488013
+8519,Non-Stop,2014,2302,6,19.650229,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",5.9727312403443245
+6866,Cloverfield,2008,2297,6,12.868098,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.97269136674127
+7608,Easy A,2010,2282,6,15.138144,"[{'id': 35, 'name': 'Comedy'}]",5.972571043189726
+5134,Hellboy,2004,2278,6,13.206854,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.972538777624721
+8371,Kick-Ass 2,2013,2275,6,13.570264,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}]",5.972514528591011
+3390,The Mummy Returns,2001,2258,6,16.945657,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}]",5.972376304412229
+8749,Taken 3,2014,2225,6,18.081483,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}]",5.972103979038986
+7775,Rio,2011,2213,6,10.403228,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.972003615588866
+7418,The Book of Eli,2010,2207,6,14.39853,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.971953162562354
+7215,Angels & Demons,2009,2183,6,22.211558,"[{'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",5.971749518798058
+8006,John Carter,2012,2170,6,14.670353,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.971637972128265
+5642,Ocean's Twelve,2004,2169,6,11.869347,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.971629355117914
+6435,Click,2006,2167,6,9.796552,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",5.971612105379432
+5091,50 First Dates,2004,2161,6,11.134888,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.971560230077086
+7576,Salt,2010,2125,6,8.704455,"[{'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",5.971244952711432
+6724,Live Free or Die Hard,2007,2122,6,14.886039,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.971218363776076
+4000,Resident Evil,2002,2100,6,7.781293,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.9710218655148655
+7915,The Adventures of Tintin,2011,2095,6,19.201504,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 9648, 'name': 'Mystery'}]",5.970976832049201
+7736,Rango,2011,2094,6,10.581925,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 37, 'name': 'Western'}, {'id': 12, 'name': 'Adventure'}]",5.970967808554628
+144,Die Hard: With a Vengeance,1995,2094,6,15.138855,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.970967808554628
+4614,2 Fast 2 Furious,2003,2087,6,2.32462,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.970904486643953
+7454,Percy Jackson & the Olympians: The Lightning Thief,2010,2079,6,9.785895,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",5.970831779669863
+8372,Riddick,2013,2066,6,9.596377,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.970712852664377
+6418,Mission: Impossible III,2006,2062,6,15.687983,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.970676064387359
+6708,Ocean's Thirteen,2007,2040,6,12.16276,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.970472065341229
+7549,Shrek Forever After,2010,2021,6,11.803808,"[{'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.970293586382612
+6201,The 40 Year Old Virgin,2005,2020,6,11.519662,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.970284132966873
+3458,A.I. Artificial Intelligence,2001,2011,6,13.249364,"[{'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",5.97019878069672
+8614,The Purge: Anarchy,2014,2008,6,27.756026,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",5.970170220877557
+8804,Paper Towns,2015,1997,6,9.662731,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",5.97006503155578
+8873,Pitch Perfect 2,2015,1997,6,15.862632,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",5.97006503155578
+3196,Unbreakable,2000,1994,6,14.67855,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",5.970036214682038
+5634,National Treasure,2004,1974,6,18.932203,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",5.9698426751825036
+526,Snow White and the Seven Dwarfs,1937,1973,6,16.263878,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.969832932556407
+8125,Dredd,2012,1971,6,12.1524,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.969813428407287
+7648,Megamind,2010,1968,6,11.603905,"[{'id': 16, 'name': 'Animation'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 878, 'name': 'Science Fiction'}]",5.969784124849567
+7978,Chronicle,2012,1965,6,12.47441,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.969754764343818
+1721,Blade,1998,1950,6,15.043454,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}]",5.96960710175599
+4611,The Italian Job,2003,1949,6,13.995044,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",5.969597206301721
+7804,Kung Fu Panda 2,2011,1925,6,11.481921,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.969357767091653
+1109,Die Hard 2,1990,1920,6,18.785984,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.969307408439095
+8337,White House Down,2013,1910,6,9.920223,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.969206192928078
+203,Dumb and Dumber,1994,1894,6,9.844558,"[{'id': 35, 'name': 'Comedy'}]",5.969042852219568
+8758,It Follows,2015,1894,6,20.359336,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",5.969042852219568
+8745,Night at the Museum: Secret of the Tomb,2014,1893,6,19.539436,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",5.969032585870897
+8599,The Babadook,2014,1890,6,8.832788,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}]",5.969001745928529
+7963,Underworld: Awakening,2012,1885,6,12.345348,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 27, 'name': 'Horror'}]",5.968950209295439
+7115,Yes Man,2008,1869,6,9.756289,"[{'id': 35, 'name': 'Comedy'}]",5.968784134330114
+7064,Madagascar: Escape 2 Africa,2008,1866,6,12.668733,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}]",5.968752797294574
+8630,The Giver,2014,1859,6,12.472206,"[{'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]",5.968679432291911
+8284,The Host,2013,1859,6,11.342024,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 10749, 'name': 'Romance'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.968679432291911
+7243,The Proposal,2009,1858,6,8.058337,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",5.9686689234448735
+8052,Madagascar 3: Europe's Most Wanted,2012,1857,6,13.829042,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.968658407543499
+6043,Constantine,2005,1837,6,9.615691,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}]",5.968446597092351
+3418,Pearl Harbor,2001,1833,6,11.419388,"[{'id': 36, 'name': 'History'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",5.968403890991102
+8617,The Expendables 3,2014,1830,6,14.753545,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",5.968371785474564
+7733,Paul,2011,1825,6,10.24382,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]",5.968318131042649
+8338,The World's End,2013,1820,6,9.830382,"[{'id': 35, 'name': 'Comedy'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.968264294261521
+341,Speed,1994,1814,6,10.859292,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}]",5.968199448111668
+6176,The Island,2005,1813,6,11.443647,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",5.968188614647102
+2643,Pitch Black,2000,1812,6,6.424399,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}]",5.968177773798766
+8233,Gangster Squad,2013,1805,6,8.581558,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.9681016804793
+8987,Everest,2015,1805,6,10.758754,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]",5.9681016804793
+7320,Cloudy with a Chance of Meatballs,2009,1799,6,11.665693,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.968036167397515
+7084,Bolt,2008,1798,6,15.580915,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",5.968025222378818
+6848,National Treasure: Book of Secrets,2007,1782,6,12.854373,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",5.967849077067587
+8907,The Good Dinosaur,2015,1782,6,12.319595,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.967849077067587
+7764,Insidious,2010,1775,6,17.24814,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",5.967771401751605
+2474,Sleepy Hollow,1999,1774,6,11.072361,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",5.967760274628885
+826,Cinderella,1950,1760,6,14.436858,"[{'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10749, 'name': 'Romance'}]",5.96760368423366
+6452,The Fast and the Furious: Tokyo Drift,2006,1749,6,2.238808,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.967479577709515
+7565,Grown Ups,2010,1746,6,23.981251,"[{'id': 35, 'name': 'Comedy'}]",5.967445565275101
+7675,The Tourist,2010,1744,6,12.845045,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}]",5.967422850765805
+3154,Meet the Parents,2000,1743,6,14.178281,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.9674114816204025
+7646,Due Date,2010,1737,6,11.73956,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",5.9673430997534815
+7544,The A-Team,2010,1737,6,16.747793,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.9673430997534815
+891,Top Gun,1986,1736,6,20.301019,"[{'id': 28, 'name': 'Action'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",5.967331674865345
+124,Bad Boys,1995,1729,6,9.262184,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.967251476269587
+4206,The Transporter,2002,1724,6,13.217421,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.96719395005449
+8205,Zero Dark Thirty,2012,1723,6,9.649303,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",5.967182420550749
+6040,Hitch,2005,1721,6,13.35076,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",5.967159337214286
+4265,The Ring,2002,1720,6,13.740965,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}]",5.967147783364446
+7015,Tropic Thunder,2008,1707,6,8.980941,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",5.966996840119849
+1116,Batman Returns,1992,1706,6,15.001681,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}]",5.966985171628872
+9077,Central Intelligence,2016,1699,6,11.374041,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",5.966903260592296
+7790,Bridesmaids,2011,1697,6,6.810991,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.966879782732178
+8307,The Internship,2013,1691,6,0.393865,"[{'id': 35, 'name': 'Comedy'}]",5.9668091488715085
+8281,The Place Beyond the Pines,2013,1689,6,7.492658,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",5.966785537253718
+309,Ace Ventura: Pet Detective,1994,1684,6,11.247957,"[{'id': 35, 'name': 'Comedy'}, {'id': 9648, 'name': 'Mystery'}]",5.966726360973169
+7739,The Adjustment Bureau,2011,1677,6,9.420301,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}]",5.966643159046618
+4321,8 Mile,2002,1676,6,8.374355,"[{'id': 18, 'name': 'Drama'}]",5.966631239077724
+7571,The Karate Kid,2010,1675,6,11.690781,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",5.966619310586653
+5161,Van Helsing,2004,1674,6,12.643312,"[{'id': 27, 'name': 'Horror'}, {'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",5.966607373564262
+6947,The Chronicles of Narnia: Prince Caspian,2008,1668,6,12.490891,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.966535571758566
+1064,Alien³,1992,1664,6,17.126768,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 27, 'name': 'Horror'}]",5.966487532097008
+8377,The Mortal Instruments: City of Bones,2013,1649,6,14.336187,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}, {'id': 14, 'name': 'Fantasy'}]",5.966306148313164
+65,From Dusk Till Dawn,1996,1644,6,15.339153,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.966245249940393
+1644,One Hundred and One Dalmatians,1961,1643,6,15.727519,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.9662330438399875
+8019,American Reunion,2012,1641,6,8.10609,"[{'id': 35, 'name': 'Comedy'}]",5.966208605136825
+9032,Kung Fu Panda 3,2016,1630,6,14.696548,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.9660735574172
+1564,Gremlins,1984,1629,6,11.333125,"[{'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}]",5.96606122680639
+8000,Project X,2012,1624,6,9.803023,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.965999439060261
+4166,Signs,2002,1624,6,11.211568,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}]",5.965999439060261
+9067,The Shallows,2016,1619,6,13.689175,"[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.965937425926572
+8971,Joy,2015,1619,6,12.975936,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",5.965937425926572
+6529,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,1617,6,8.278336,"[{'id': 35, 'name': 'Comedy'}]",5.96591255728813
+1485,There's Something About Mary,1998,1616,6,11.688958,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",5.965900109346736
+1250,Face/Off,1997,1612,6,11.467391,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.9658502265341955
+8360,2 Guns,2013,1611,6,13.336512,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.965837733019354
+8139,Sinister,2012,1611,6,12.490637,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",5.965837733019354
+8914,Steve Jobs,2015,1608,6,16.224866,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",5.965800197566328
+8339,The Heat,2013,1595,6,12.706403,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.965636586235042
+8294,Pain & Gain,2013,1595,6,9.218002,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 28, 'name': 'Action'}]",5.965636586235042
+5401,The Chronicles of Riddick,2004,1593,6,5.060352,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.965611276215328
+4696,Bad Boys II,2003,1588,6,8.191436,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.965547837749078
+7751,Just Go with It,2011,1588,6,9.267959,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",5.965547837749078
+4371,Equilibrium,2002,1584,6,12.671637,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.965496918206881
+1331,Starship Troopers,1997,1584,6,14.412644,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.965496918206881
+8719,Horrible Bosses 2,2014,1575,6,20.903362,"[{'id': 35, 'name': 'Comedy'}]",5.965381797076853
+9058,The Huntsman: Winter's War,2016,1575,6,17.260203,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]",5.965381797076853
+2782,Hook,1991,1563,6,14.508137,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.965227101897335
+8526,Need for Speed,2014,1560,6,18.271383,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.965188211838317
+4025,Blade II,2002,1556,6,17.05064,"[{'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.965136222907371
+6875,Hellboy II: The Golden Army,2008,1555,6,11.928661,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",5.965123201402518
+7673,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,1555,6,12.383398,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.965123201402518
+8356,RED 2,2013,1548,6,11.04233,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.965031777799244
+6336,Underworld: Evolution,2006,1548,6,12.496805,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.965031777799244
+1128,Mars Attacks!,1996,1544,6,15.63424,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",5.964979320220186
+8832,Home,2015,1539,6,13.422713,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 16, 'name': 'Animation'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",5.9649135265030075
+8991,Hotel Transylvania 2,2015,1528,6,11.760218,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.964767906517922
+5629,The Polar Express,2004,1524,6,14.27536,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.964714653655949
+5487,Anchorman: The Legend of Ron Burgundy,2004,1523,6,10.33012,"[{'id': 35, 'name': 'Comedy'}]",5.964701315277502
+5925,Lemony Snicket's A Series of Unfortunate Events,2004,1521,6,12.817945,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.964674608245101
+6568,Déjà Vu,2006,1519,6,14.922904,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.964647860768949
+6829,Enchanted,2007,1512,6,11.447798,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",5.964553924777976
+2968,Gone in Sixty Seconds,2000,1511,6,14.091765,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.964540464583847
+46,Pocahontas,1995,1509,6,13.280069,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",5.964513513504257
+6659,Shooter,2007,1495,6,14.246918,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.964323702695462
+7964,The Grey,2012,1476,6,14.31675,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.964062830755505
+614,The Rock,1996,1474,6,13.249824,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",5.964035148449817
+8951,The Witch,2016,1471,6,11.840138,"[{'id': 9648, 'name': 'Mystery'}, {'id': 27, 'name': 'Horror'}]",5.96399354493526
+3023,Scary Movie,2000,1468,6,12.446738,"[{'id': 35, 'name': 'Comedy'}]",5.963951845056788
+8549,The Other Woman,2014,1467,6,9.389354,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.963937923625204
+7184,Monsters vs Aliens,2009,1464,6,14.243634,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.963896094739832
+8177,Lincoln,2012,1456,6,10.680331,"[{'id': 36, 'name': 'History'}, {'id': 18, 'name': 'Drama'}]",5.963784075176505
+1198,Liar Liar,1997,1456,6,10.102471,"[{'id': 35, 'name': 'Comedy'}]",5.963784075176505
+4847,School of Rock,2003,1454,6,17.95142,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",5.963755961587914
+8241,Mama,2013,1452,6,16.018525,"[{'id': 27, 'name': 'Horror'}]",5.963727804317551
+1579,Bambi,1942,1450,6,13.698132,"[{'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",5.963699603263529
+7144,Underworld: Rise of the Lycans,2009,1447,6,11.654958,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.963657219364483
+3190,How the Grinch Stole Christmas,2000,1440,6,11.642462,"[{'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",5.96355793765029
+6828,The Mist,2007,1438,6,8.435642,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",5.963529471736878
+6989,Mamma Mia!,2008,1435,6,10.534437,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.9634866893857446
+7523,Robin Hood,2010,1434,6,10.56812,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.963472406288179
+2718,Final Destination,2000,1416,6,14.961416,"[{'id': 27, 'name': 'Horror'}]",5.963213386162584
+528,Pinocchio,1940,1412,6,14.202284,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.963155326481653
+5992,Meet the Fockers,2004,1412,6,11.876386,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.963155326481653
+4866,Brother Bear,2003,1410,6,12.300905,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.963126227860963
+7584,The Other Guys,2010,1406,6,12.536621,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.96306789251507
+857,Romeo + Juliet,1996,1406,6,11.774061,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",5.96306789251507
+6172,Wedding Crashers,2005,1406,6,11.100597,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.96306789251507
+6914,21,2008,1406,6,8.33756,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",5.96306789251507
+8952,The Visit,2015,1405,6,15.021058,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",5.963053279827136
+3377,Bridget Jones's Diary,2001,1397,6,10.780524,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",5.962935960718863
+7129,Marley & Me,2008,1392,6,9.729748,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.962862257172726
+7199,17 Again,2009,1388,6,11.362762,"[{'id': 35, 'name': 'Comedy'}]",5.962803082948973
+6064,Robots,2005,1383,6,12.949715,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 878, 'name': 'Science Fiction'}]",5.962728849459209
+520,Ghost,1990,1381,6,11.945397,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",5.962699073034713
+3696,American Pie 2,2001,1375,6,10.25103,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.962609457609956
+8720,Penguins of Madagascar,2014,1375,6,22.201607,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",5.962609457609956
+6722,1408,2007,1372,6,9.196884,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",5.962564488227671
+8781,The DUFF,2015,1372,6,8.592449,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",5.962564488227671
+7255,Public Enemies,2009,1371,6,10.364794,"[{'id': 36, 'name': 'History'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",5.962549474386421
+7724,No Strings Attached,2011,1367,6,8.88057,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.9624892983992535
+3764,Zoolander,2001,1363,6,10.40782,"[{'id': 35, 'name': 'Comedy'}]",5.9624289287177525
+7984,Safe House,2012,1361,6,8.338675,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.962398670949143
+6716,Death Proof,2007,1359,6,13.412137,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.962368364405215
+9081,The Purge: Election Year,2016,1356,6,13.1789,"[{'id': 28, 'name': 'Action'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",5.9623228128773
+7876,Contagion,2011,1351,6,8.244359,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.9622466481099305
+8257,Side Effects,2013,1340,6,11.645847,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",5.962077996846614
+6116,The Hitchhiker's Guide to the Galaxy,2005,1340,6,13.257255,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 878, 'name': 'Science Fiction'}]",5.962077996846614
+8876,The Lobster,2015,1340,6,11.223033,"[{'id': 53, 'name': 'Thriller'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 878, 'name': 'Science Fiction'}]",5.962077996846614
+576,Space Jam,1996,1335,6,11.054251,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.9620008380544895
+1655,Sleeping Beauty,1959,1332,6,14.276169,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10749, 'name': 'Romance'}, {'id': 10751, 'name': 'Family'}]",5.961954391881968
+8495,Enemy,2013,1326,6,12.66992,"[{'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",5.961861158076745
+1814,Antz,1998,1320,6,16.025625,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.961767466195178
+8635,Sin City: A Dame to Kill For,2014,1314,6,20.623642,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.961673312853023
+6778,Resident Evil: Extinction,2007,1308,6,3.009134,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.961578694632613
+4032,Panic Room,2002,1303,6,14.969502,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.961499488511215
+7464,Dear John,2010,1302,6,8.371479,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",5.961483608082454
+7273,Orphan,2009,1296,6,8.730934,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",5.961388049716797
+3306,Hannibal,2001,1296,6,2.48875,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}]",5.961388049716797
+7398,The Princess and the Frog,2009,1293,6,16.616517,"[{'id': 10749, 'name': 'Romance'}, {'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 10402, 'name': 'Music'}]",5.96134009250439
+7307,9,2009,1291,6,18.502877,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.961308054792037
+1238,Con Air,1997,1289,6,11.545982,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.961275963935931
+6266,Saw II,2005,1288,6,15.399863,"[{'id': 27, 'name': 'Horror'}]",5.96125989853763
+7729,Unknown,2011,1288,6,14.443599,"[{'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",5.96125989853763
+5576,Resident Evil: Apocalypse,2004,1286,6,7.850797,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.961227727717615
+7772,Hanna,2011,1284,6,8.071196,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}]",5.961195503422166
+8278,The Call,2013,1275,6,8.611077,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.961049828745767
+2634,The Beach,2000,1271,6,14.430311,"[{'id': 18, 'name': 'Drama'}, {'id': 12, 'name': 'Adventure'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",5.960984732779771
+7672,Love & Other Drugs,2010,1268,6,7.575696,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.96093576783597
+1863,Enemy of the State,1998,1266,6,12.978751,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.960903056202941
+8908,Black Mass,2015,1262,6,10.61072,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",5.9608374683086325
+5154,13 Going on 30,2004,1260,6,12.632595,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",5.9608045917709465
+6571,The Holiday,2006,1259,6,14.043416,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.960788132793778
+3454,Atlantis: The Lost Empire,2001,1257,6,10.901602,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.960755173335758
+6694,Knocked Up,2007,1255,6,9.058516,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",5.960722158423111
+1797,Rush Hour,1998,1254,6,11.840557,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.9607056301275465
+7025,Burn After Reading,2008,1251,6,13.206799,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",5.9606559616731705
+7358,Up in the Air,2009,1246,6,8.338562,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",5.960572901298388
+1639,Lady and the Tramp,1955,1241,6,12.994387,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}]",5.960489489479183
+8740,Big Eyes,2014,1236,6,7.412826,"[{'id': 18, 'name': 'Drama'}]",5.960405723980284
+2954,Mad Max,1979,1235,6,11.412619,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.960388928240902
+8632,Let's Be Cops,2014,1234,6,15.962793,"[{'id': 35, 'name': 'Comedy'}]",5.960372118246097
+7562,Predators,2010,1231,6,9.034929,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",5.960321602547422
+6696,28 Weeks Later,2007,1225,6,12.884191,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.960220183792751
+8144,Seven Psychopaths,2012,1224,6,9.643538,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.960203230239985
+8916,Vacation,2015,1218,6,11.33038,"[{'id': 35, 'name': 'Comedy'}]",5.960101204680868
+1567,The Mask of Zorro,1998,1211,6,11.348096,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.95998151171471
+6763,3:10 to Yuma,2007,1210,6,18.079094,"[{'id': 37, 'name': 'Western'}]",5.959964354070958
+833,Dumbo,1941,1206,6,14.655879,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.959895576118838
+7022,Death Race,2008,1205,6,13.53003,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.959878344691546
+7116,Valkyrie,2008,1195,6,8.635464,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",5.959705212494651
+6922,Forgetting Sarah Marshall,2008,1194,6,15.106676,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",5.9596878170588425
+9,GoldenEye,1995,1194,6,14.686036,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.9596878170588425
+7652,Unstoppable,2010,1193,6,12.697059,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.959670406597176
+2998,Chicken Run,2000,1190,6,11.834245,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.959618084862092
+6124,Kingdom of Heaven,2005,1187,6,16.296471,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",5.95956562719109
+8376,Jobs,2013,1183,6,14.294019,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",5.959495471256659
+645,The Hunchback of Notre Dame,1996,1182,6,13.553999,"[{'id': 18, 'name': 'Drama'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.959477894217629
+4109,Insomnia,2002,1181,6,11.424974,"[{'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",5.959460301916776
+1852,Meet Joe Black,1998,1174,6,14.026744,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",5.959336726805043
+6483,Crank,2006,1172,6,12.627593,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",5.959301281134546
+7601,Machete,2010,1171,6,7.120403,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]",5.95928353511603
+7010,Pineapple Express,2008,1169,6,8.461369,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",5.959247996611286
+8823,Run All Night,2015,1169,6,16.838145,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",5.959247996611286
+4711,American Wedding,2003,1158,6,14.397139,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.9590514205556495
+8929,The Walk,2015,1151,6,9.425787,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.958925336251914
+8313,Epic,2013,1143,6,11.913405,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.958780285792841
+4237,Red Dragon,2002,1142,6,2.968157,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}]",5.958762082421437
+344,True Lies,1994,1138,6,11.396099,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.958689107872546
+7371,A Christmas Carol,2009,1137,6,12.869273,"[{'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}]",5.958670823862576
+2173,Ghostbusters II,1989,1131,6,16.414239,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",5.958560779016199
+3000,The Patriot,2000,1130,6,15.960788,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}, {'id': 28, 'name': 'Action'}]",5.958542381208979
+18,Ace Ventura: When Nature Calls,1995,1128,6,8.205448,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}]",5.958505536542438
+9041,The Boy,2016,1133,5,17.028854,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",5.456247609929548
+8706,Dumb and Dumber To,2014,1140,5,15.402597,"[{'id': 35, 'name': 'Comedy'}]",5.454835952720607
+7501,Date Night,2010,1148,5,8.443736,"[{'id': 35, 'name': 'Comedy'}]",5.453233289039421
+8026,Mirror Mirror,2012,1148,5,14.170183,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",5.453233289039421
+8370,Grown Ups 2,2013,1180,5,9.411725,"[{'id': 35, 'name': 'Comedy'}]",5.446934007746309
+4694,The League of Extraordinary Gentlemen,2003,1181,5,10.488765,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.446739975442869
+8868,Hitman: Agent 47,2015,1183,5,10.721799,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.446352415821594
+8886,Trainwreck,2015,1193,5,17.310647,"[{'id': 35, 'name': 'Comedy'}]",5.444424660721734
+8484,Jack Ryan: Shadow Recruit,2014,1194,5,11.234862,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",5.444232800654076
+6726,Evan Almighty,2007,1194,5,9.156877,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.444232800654076
+7840,The Smurfs,2011,1201,5,10.219758,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",5.4428944045085235
+8326,The Bling Ring,2013,1205,5,7.913029,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",5.4421332213779765
+6810,Bee Movie,2007,1208,5,8.774374,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",5.441564048847881
+6834,Alvin and the Chipmunks,2007,1212,5,11.805233,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}]",5.440807427790911
+7340,Surrogates,2009,1219,5,16.211937,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.439489561559367
+9029,How to Be Single,2016,1225,5,8.898988,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.438366217702608
+5549,AVP: Alien vs. Predator,2004,1241,5,12.636205,"[{'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}]",5.435398518843659
+3180,Charlie's Angels,2000,1253,5,9.774985,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.433198980986404
+3644,Planet of the Apes,2001,1270,5,17.319836,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.430120740442694
+7701,The Green Hornet,2011,1274,5,7.888013,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}]",5.42940279562473
+5643,Blade: Trinity,2004,1276,5,18.860681,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.429044721245457
+8348,R.I.P.D.,2013,1280,5,9.369679,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.4283303610702225
+8062,Abraham Lincoln: Vampire Hunter,2012,1297,5,7.922636,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}]",5.425320682580434
+8999,"Hail, Caesar!",2016,1338,5,11.241366,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",5.418233156980614
+8901,The Last Witch Hunter,2015,1345,5,13.412445,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.41704663185341
+6832,The Golden Compass,2007,1347,5,11.481379,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.4167088602231726
+7324,Paranormal Activity,2007,1351,5,12.706424,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}]",5.416034955702718
+6992,Journey to the Center of the Earth,2008,1353,5,10.419974,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.415698820164459
+8442,47 Ronin,2013,1357,5,14.88937,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.415028175943818
+7605,Resident Evil: Afterlife,2010,1382,5,0.452934,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}]",5.410885185846951
+1342,Alien: Resurrection,1997,1388,5,15.57784,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}]",5.4099031466838365
+8005,This Means War,2012,1411,5,12.366641,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",5.40618175552029
+7005,The Mummy: Tomb of the Dragon Emperor,2008,1418,5,14.250227,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}]",5.405062533236932
+6455,Superman Returns,2006,1429,5,13.284712,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.403316163453438
+4702,Lara Croft Tomb Raider: The Cradle of Life,2003,1443,5,13.076349,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 53, 'name': 'Thriller'}]",5.401115170903212
+4171,xXx,2002,1454,5,12.722381,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",5.39940260030861
+6567,Happy Feet,2006,1457,5,15.088318,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}]",5.398938070650191
+8017,Wrath of the Titans,2012,1459,5,7.739904,"[{'id': 12, 'name': 'Adventure'}]",5.398628984053266
+7745,Battle: Los Angeles,2011,1462,5,6.753746,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.398166251135699
+9059,Neighbors 2: Sorority Rising,2016,1490,5,9.914008,"[{'id': 35, 'name': 'Comedy'}]",5.393898660019562
+8575,A Million Ways to Die in the West,2014,1494,5,10.38391,"[{'id': 35, 'name': 'Comedy'}, {'id': 37, 'name': 'Western'}]",5.393296460569906
+8415,Carrie,2013,1505,5,18.399055,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}]",5.391649866573458
+7567,The Sorcerer's Apprentice,2010,1526,5,12.533525,"[{'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",5.388544351093152
+7178,Knowing,2009,1528,5,9.806904,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.3882511543295735
+132,Batman Forever,1995,1529,5,13.321354,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 14, 'name': 'Fantasy'}]",5.388104721820586
+8498,The Monuments Men,2014,1545,5,11.132411,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 28, 'name': 'Action'}]",5.385776733686399
+4489,Daredevil,2003,1551,5,11.415558,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.384910922209584
+4688,Hulk,2003,1571,5,15.422638,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.382052743534233
+8277,Spring Breakers,2013,1580,5,14.830235,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",5.380780365391912
+7569,Knight and Day,2010,1583,5,12.758942,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",5.380358120586642
+7744,I Am Number Four,2011,1606,5,9.388376,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",5.377151759065791
+5594,Shark Tale,2004,1612,5,17.999273,"[{'id': 16, 'name': 'Animation'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.37632418791512
+8122,Resident Evil: Retribution,2012,1618,5,0.948759,"[{'id': 28, 'name': 'Action'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}]",5.375500240634617
+7816,Bad Teacher,2011,1634,5,7.310686,"[{'id': 35, 'name': 'Comedy'}]",5.373320584615841
+9046,London Has Fallen,2016,1656,5,15.037993,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",5.3703645477379425
+7759,Sucker Punch,2011,1661,5,13.779527,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}, {'id': 53, 'name': 'Thriller'}]",5.369699238138644
+8258,Identity Thief,2013,1667,5,7.321172,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",5.368904014997885
+8364,Percy Jackson: Sea of Monsters,2013,1685,5,10.338222,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.366538740270393
+8741,Into the Woods,2014,1688,5,9.580785,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",5.366147473468226
+8618,Hercules,2014,1707,5,19.606895,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.363688718256556
+8404,Don Jon,2013,1708,5,10.948605,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",5.36356022450364
+8612,Sex Tape,2014,1733,5,27.470696,"[{'id': 35, 'name': 'Comedy'}]",5.360377130852106
+6628,Ghost Rider,2007,1754,5,11.902354,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}]",5.357746092141254
+8037,The Dictator,2012,1789,5,7.446085,"[{'id': 35, 'name': 'Comedy'}]",5.353445373165867
+6883,Jumper,2008,1855,5,11.03897,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",5.345610552641601
+8703,Exodus: Gods and Kings,2014,1957,5,16.320249,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}]",5.334162778279893
+2891,Mission: Impossible II,2000,1966,5,18.97178,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.333188984404579
+7281,G.I. Joe: The Rise of Cobra,2009,1988,5,11.787058,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.330832323635256
+7219,Night at the Museum: Battle of the Smithsonian,2009,2026,5,15.417181,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",5.326839302323435
+7709,Cowboys & Aliens,2011,2054,5,10.958669,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}, {'id': 37, 'name': 'Western'}]",5.323958210374984
+7824,Cars 2,2011,2088,5,13.693002,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",5.320527304832763
+3639,Jurassic Park III,2001,2109,5,0.648867,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.318444284036363
+8027,Battleship,2012,2141,5,13.106966,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.315321707248607
+4691,Terminator 3: Rise of the Machines,2003,2177,5,20.818907,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.3118812085334
+9076,Ghostbusters,2016,2203,5,17.162744,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}]",5.309442731531576
+3455,Lara Croft: Tomb Raider,2001,2235,5,15.851722,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.3064933756582775
+7497,Clash of the Titans,2010,2280,5,11.972347,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",5.302439707099431
+8546,Transcendence,2014,2339,5,9.730176,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",5.297284584109061
+8340,The Lone Ranger,2013,2361,5,12.729104,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 37, 'name': 'Western'}]",5.295407033196044
+7553,The Twilight Saga: Eclipse,2010,2382,5,34.047399,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",5.2936368164122545
+8033,Dark Shadows,2012,2383,5,10.665859,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",5.293553049419497
+8500,RoboCop,2014,2385,5,10.246549,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",5.293385658731569
+9078,Jason Bourne,2016,2386,5,19.133256,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.293302034954709
+8532,Noah,2014,2408,5,14.924487,"[{'id': 18, 'name': 'Drama'}, {'id': 12, 'name': 'Adventure'}]",5.291474297370016
+9080,The Legend of Tarzan,2016,2488,5,45.38298,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.285015748791022
+7218,Terminator Salvation,2009,2496,5,16.507496,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.2843856012146535
+7381,The Twilight Saga: New Moon,2009,2518,5,30.121292,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",5.282666976001292
+8091,Total Recall,2012,2540,5,16.42635,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",5.280968998316705
+7813,Green Lantern,2011,2551,5,13.985631,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",5.280127636368243
+6952,Indiana Jones and the Kingdom of the Crystal Skull,2008,2558,5,12.577266,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",5.279594842798365
+8894,Pixels,2015,2564,5,21.14796,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]",5.279139773067247
+8318,After Earth,2013,2579,5,10.747642,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.278008553367672
+7924,The Twilight Saga: Breaking Dawn - Part 1,2011,2622,5,25.9725,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",5.274815954341177
+8269,Jack the Giant Slayer,2013,2634,5,11.606061,"[{'id': 28, 'name': 'Action'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",5.273938041591711
+6713,Fantastic 4: Rise of the Silver Surfer,2007,2648,5,12.924254,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.272920872967086
+8629,Teenage Mutant Ninja Turtles,2014,2677,5,22.337973,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}]",5.270837726860847
+8628,Jupiter Ascending,2015,2816,5,21.463465,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.261278910073914
+6170,Fantastic Four,2005,3040,5,19.382082,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",5.2472181576578665
+8271,G.I. Joe: Retaliation,2013,3045,5,10.560608,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",5.246921548071963
+8593,Transformers: Age of Extinction,2014,3136,5,18.495599,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.2416449510227086
+8039,Snow White and the Huntsman,2012,3183,5,18.751554,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}]",5.239007028251755
+8250,Hansel & Gretel: Witch Hunters,2013,3290,5,10.337211,"[{'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}]",5.233211145733637
+8777,Fifty Shades of Grey,2015,3350,5,33.068431,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",5.230082474607616
+8260,A Good Day to Die Hard,2013,3519,5,12.471865,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",5.221704843244517
+8898,The Secret Life of Pets,2016,3536,5,11.01395,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",5.2208957709589345
+8274,Oz: The Great and Powerful,2013,3576,5,11.137329,"[{'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}]",5.219015166745084
+8752,Terminator Genisys,2015,3677,5,30.188198,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}]",5.214406146483957
+6685,Spider-Man 3,2007,3687,5,27.614265,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",5.213960340049715
+7086,Twilight,2008,3688,5,31.282029,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",5.213915861349389
+7375,2012,2009,4994,5,16.698628,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",5.1682396277933265
+8922,Batman v Superman: Dawn of Justice,2016,7189,5,31.435879,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",5.123808366753507
+8902,Suicide Squad,2016,7717,5,42.965027,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",5.116412975929938
+7993,Ghost Rider: Spirit of Vengeance,2011,1163,4,9.421301,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}, {'id': 53, 'name': 'Thriller'}]",4.9413760652118235
+7556,The Last Airbender,2010,1180,4,9.544657,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",4.934425321158401
+1242,Batman & Robin,1997,1447,4,17.038824,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 14, 'name': 'Fantasy'}]",4.8373242233342815
+8768,Fantastic Four,2015,2322,4,17.246484,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",4.624614115502004
+8903,Independence Day: Resurgence,2016,2550,4,16.993841,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",4.585835110400583

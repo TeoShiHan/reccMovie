@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/typewriter.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/slideNav.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/movie_grid.css') }}" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Recommendation System</title>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+
+
+<body style="background:rgb(14, 14, 14)">
+    <div class="upStretch2"
+    
+    style="
+        background-image:  
+        linear-gradient(
+            to bottom,
+            rgba(0, 0, 0, 0.5), 
+            rgba(250, 255, 160, 0)),
+            url({{ url_for('static', filename='img/pikachu.png')}})
+        ;
+    ">
+
+<div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="/">Home</a>
+    <a href="/itemBased">Item Based</a>
+    <a href="/neuralNetwork">Neural Network</a>
+    <a href="/SVD">SVD</a>
+    <a href="/wr">Weighted Rating</a>
+    <a href="/keyWord">Keyword & description</a>
+    <a href=/genre">Genre</a>
+</div>
+<span class="burgur" onclick="openNav()">&#9776;</span>
+        
+        <div class="headTitle2">
+            Item Based Collaborative Filtering
+        </div>
+
+        <div>
+
+            <h6 class="headText2">
+                Item-item collaborative filtering is a type of recommendation system that is based on the similarity between items calculated using the rating users have given to items. It helps solve issues that user-based collaborative filters suffer from such as when the system has many items with fewer items rated.
+            </h6>
+            
+
+        </div>
+
+        <form method="POST" action="/itemBased" class="formContainer">
+            <input type="text" name="movie_name" id="movie_name" 
+                   class="formSearch" placeholder="Enter movie title" required>
+            <input 
+                class="inputStep"
+                type="number" id="points" name="points" step="1"
+                min="10" max="100" value="10" required>
+
+            <button 
+                class="searchBttn"
+                type="submit"><i class="fa fa-search"></i>
+            </button>
+        </form>
+    </div>
+
+    <div class='global_flex'>
+        <h3 class="recommendationHead" id="headRecc">Recommendation for "{{ fromT}}"</h3>
+        <div class='flex_container'>
+            {% for title in recc %}
+                <div class='flex_item'>
+                    
+                    <img class='loaded_img' src={{title.link}} onclick="window.open('{{title.site_link}}')"></img>
+                    <h1 class='text_box'>{{ title.title }}<h1>
+                </div>
+            {% endfor %}    
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            var movie_title = [];
+
+            function loadMovies() {
+                // getJSON 1 path 2 f(data, stat, xhr)
+                $.getJSON('/get_cf_movies', function (data, status, xhr) {
+                    for (var i = 0; i < data.length; i++) {
+                        movie_title.push(data[i].movie_title);
+                    }
+                });
+            };
+
+            loadMovies();
+
+            $('#movie_name').autocomplete({
+                source: movie_title
+            });
+
+        }); 
+    </script>
+
+    <script>
+        contentQty = {{ recc|length }}
+        if(contentQty == 0){
+            document.getElementById("headRecc").style.visibility = "hidden"
+        }else{
+            window.location.href = "#headRecc"
+        }
+
+    </script>
+
+    <script>
+        function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        }
+        
+        function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        }
+    </script>
+
+    <style>
+        .btn {
+            padding: .375rem .75rem;
+            margin-top: 10px;
+        }
+
+        .ui-autocomplete {
+            margin-top: 9vh;
+            max-height: 400px;
+            overflow-y: auto;   /* prevent horizontal scrollbar */
+            overflow-x: hidden; /* add padding to account for vertical scrollbar */
+            z-index:1000 !important;
+    }
+    </style>
+</body>
+
+
+
+</html>

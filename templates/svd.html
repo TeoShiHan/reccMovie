@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/typewriter.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/slideNav.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/movie_grid.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/carousell.css') }}" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Recommendation System</title>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+
+
+<body style="background:rgb(14, 14, 14)">
+    <div class="upStretch2"
+    
+    style="
+        background-image:  
+        linear-gradient(
+            to bottom,
+            rgba(0, 0, 0, 0.5), 
+            rgba(250, 255, 160, 0)),
+            url({{ url_for('static', filename='img/pikachu.png')}})
+        ;
+    ">
+
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="/">Home</a>
+        <a href="/itemBased">Item Based</a>
+        <a href="/neuralNetwork">Neural Network</a>
+        <a href="/SVD">SVD</a>
+        <a href="/wr">Weighted Rating</a>
+        <a href="/keyWord">Keyword & description</a>
+        <a href=/genre">Genre</a>
+    </div>
+
+    <span class="burgur" onclick="openNav()">&#9776;</span>
+        
+        <div class="headTitle2">
+            SVD Based Recommendation System
+        </div>
+
+        <div>
+            <h6 class="headText2">
+                Singular value decomposition (SVD) is a matrix factorization method that generalizes the eigendecomposition of a square matrix (n x n) to any matrix (n x m). For recommender system, surprise library can ease the modelling process.
+            </h6>
+        </div>
+
+        <form method="POST" action="/SVD" class="formContainer">
+            <input type="text" name="user_id_s" id="user_id_s"
+                   class="formSearch" placeholder="Enter userID" required>
+            <input 
+                class="inputStep"
+                type="number" id="points" name="points" step="1"
+                min="10" max="100" value="10" required>
+
+            <button 
+                class="searchBttn"
+                type="submit"><i class="fa fa-search"></i>
+            </button>
+        </form>
+    </div>
+
+    <div class='global_flex' id="content1" >
+        <h3 class="recommendationHead" id="headRecc">Recommendation</h3>
+        <div class='flex_container'>
+            {% for title in recc %}
+                <div class='flex_item'>
+                    <img class='loaded_img' src={{title.link}} onclick="window.open('{{title.site_link}}')"></img>
+                    <h1 class='text_box'>{{ title.title }}<h1>
+                </div>
+            {% endfor %}    
+        </div>
+    </div>
+
+    <div class='global_flex' id="content2">
+        <h3 class="recommendationHead" id="headRecc">Rated Movies</h3>
+        <div class='flex_container'>
+            {% for title in rated %}
+                <div class='flex_item' onclick="window.open('{{title.site_link}}')">
+                    <img class='loaded_img' src={{title.link}}></img>
+                    <h1 class='text_box'>{{ title.title }}<h1>
+                </div>
+            {% endfor %}    
+        </div>
+    </div>
+
+
+
+    <script>
+        $(document).ready(function () {
+            var user_id = [];
+
+            function loadUserIDs() {
+                // getJSON 1 path 2 f(data, stat, xhr)
+                $.getJSON('/get_user_id', function (data, status, xhr) {
+                    for (var i = 0; i < data.length; i++) {
+                        user_id.push(data[i].user_id);
+                    }
+                });
+            };
+
+            loadUserIDs();
+
+            $('#user_id_s').autocomplete({
+                source: user_id
+            });
+
+        }); 
+    </script>
+
+
+
+    <script>
+        contentQty = {{ recc|length }}
+        if(contentQty == 0){
+            document.getElementById("content1").style.visibility = "hidden"
+            document.getElementById("content2").style.visibility = "hidden"
+            document.getElementById("content1").style.height = "0px"
+            document.getElementById("content2").style.height = "0px"
+        }else{
+            window.location.href = "#headRecc"
+        }
+
+    </script>
+
+
+    <script>
+        function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        }
+        
+        function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        }
+    </script>
+
+
+    <style>
+        .btn {
+            padding: .375rem .75rem;
+            margin-top: 10px;
+        }
+
+        .ui-autocomplete {
+            margin-top: 9vh;
+            max-height: 400px;
+            overflow-y: auto;   /* prevent horizontal scrollbar */
+            overflow-x: hidden; /* add padding to account for vertical scrollbar */
+            z-index:1000 !important;
+    }
+    </style>
+</body>
+
+
+
+</html>
